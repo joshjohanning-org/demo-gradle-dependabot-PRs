@@ -4,9 +4,9 @@
 package demo.gradle.dependabot
 
 class App {
-    val greeting: String
+    val message: String
         get() {
-            return "Hello World!"
+            return "Hello GitHub!!!!!!"
         }
 }
 
