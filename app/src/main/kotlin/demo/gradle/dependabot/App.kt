@@ -6,7 +6,7 @@ package demo.gradle.dependabot
 class App {
     val greeting: String
         get() {
-            return "Hello World!"
+            return "Hello GitHub!"
         }
 }
 
